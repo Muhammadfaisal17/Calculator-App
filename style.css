@@ -1,0 +1,63 @@
+#main
+{
+border: 5px solid black;
+background-color:deepskyblue;
+width: 300px;
+height: 515px;
+margin: 60px auto;
+}
+.heading{
+margin: 25px 0 25px 0;
+font-size: 40px;
+font-weight: bolder;
+font-family:'Times New Roman', Times, serif
+}
+.input1{
+    width: 90%;
+    height:55px;
+    font-size: 19px;
+    color: black;
+    border-radius: 8px;
+    background-color: lightgray;
+    margin: 0px 5px 12px 13px;
+    
+}
+.input1:focus
+{
+    border-radius: 8px;
+
+
+}
+.clearButton
+{
+    width:90%;
+    height:45px;
+margin: 5px 0 0 0;
+border-radius: 8px;
+font-weight: bolder;
+    margin: 5px 5px 5px 13px;
+}
+
+.button{
+    width: 45px;
+    height: 40px;
+    border-radius: 12px;
+    font-weight: bolder;
+margin: 10px 5px 5px 15px;
+}
+.button2{
+width:40%;
+height:40px;
+border-radius: 8px;
+font-weight: bolder;
+margin :5px 10px 5px 12px;
+}
+.equalbutton
+{
+    width: 90%;
+    height:40px;
+border-radius: 8px;
+
+font-weight: bolder;
+margin: 5px 0 0 10px;
+}
